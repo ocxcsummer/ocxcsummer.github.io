@@ -10,7 +10,7 @@
 
 // font size
 html {
-  font-size: 16px; // change from 16
+  font-size: 14px; // change from 16
 
   @include breakpoint($medium) {
     font-size: 16px; // change from 18
