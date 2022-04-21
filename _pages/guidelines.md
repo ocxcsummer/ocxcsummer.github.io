@@ -8,7 +8,8 @@ To submit a post please send a note to [our email](ocxcsummer@gmail.com) with th
 
 - Author name(s) (as you would like them to be shown on the blog)
 - Blog material
-  - May include text, links, images
+  - May include text, links, images, sound files
+- Tags (eg. 'trail running', 'music', 'training', 'shoe review', 'photos')
 - Accepted Formats:
   - Markdown file (preferred if you know how to do this)
   - Word Doc
