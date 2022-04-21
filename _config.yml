@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oberlin College Cross Country Team"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The one-of-a-kind cross country team at Oberlin College."
+  name             : "Oberlin College Cross Country"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "OC XC"
   location         : "Oberlin, OH"
-  email            :
+  email            : "ocxcsummer@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
