@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to the Blog!"
+title:  "Welcome to the Blog"
 date:   2022-04-22
 categories: update
 tags: jekyll
