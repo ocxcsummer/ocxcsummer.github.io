@@ -25,6 +25,10 @@ html {
   }
 }
 
+article.page {
+  font-size: 18px !important;
+}
+
 // line height
 .page__content {
     @include breakpoint($large) {
