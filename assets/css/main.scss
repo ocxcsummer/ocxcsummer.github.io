@@ -1,6 +1,6 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-// # Only the main Sass file needs front matter (the dashes are enough)
 
 @charset "utf-8";
 
@@ -26,7 +26,7 @@ html {
 }
 
 article.page {
-  font-size: 18px !important;
+  font-size: 18px;
 }
 
 // line height
