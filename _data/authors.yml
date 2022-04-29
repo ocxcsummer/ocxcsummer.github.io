@@ -1,0 +1,14 @@
+# /_data/authors.yml
+
+Niels Vanderloo:
+  name        : "Niels Vanderloo"
+  bio         : "Physics and Math major from NYC (OC '23)"
+  avatar      : "/assets/images/niels.png"
+  instagram : "https://www.instagram.com/niels.loo/"
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:cornelius@thewhip.com"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://www.instagram.com/niels.loo/"
