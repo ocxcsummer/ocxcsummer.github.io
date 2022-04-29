@@ -16,3 +16,9 @@ Your post should include:
   - Word Doc
   - Google Doc
   - email text
+
+If it is your first time posting please include the following:
+
+- Author pic (can be anything square shaped)
+- Author social media links/email (optional)
+- Short bio (eg. Oberlin Alum '22, Psychology Major from Kansas '24) 
