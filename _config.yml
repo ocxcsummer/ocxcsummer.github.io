@@ -39,6 +39,7 @@ staticman:
   moderation             : false # true
   path                   :  "_data/results/{@timestamp}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ["name", "email", "message"] # ['name', 'email', 'message']
+  endpoint               : https://ocxcsummer-staticman.herokuapp.com/v3/entry/github/
   transforms:
     email                : # "md5"
   generatedFields:
