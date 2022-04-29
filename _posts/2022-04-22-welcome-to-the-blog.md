@@ -2,6 +2,7 @@
 title:  "Welcome to the Blog"
 date:   2022-04-21
 categories: update
+tags: update
 author: Niels Vanderloo
 ---
 
