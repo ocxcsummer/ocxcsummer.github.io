@@ -37,7 +37,7 @@ en: &DEFAULT_EN
   comment_form_website_label : "Website (optional)"
   comment_btn_submit         : "Submit Comment"
   comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show on the site when it gets around to it."
+  comment_success_msg        : "Thanks for your comment! It will show on the site in a couple of minutes."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   search_placeholder_text    : "Enter your search term..."
