@@ -20,33 +20,38 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # staticman_v2 # staticman_v2 # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ["name", "email", "message"] # ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master"
-  commitMessage          : "Add Staticman data" # "New comment."
-  filename               : "entry{@timestamp}" # comment-{@timestamp}
-  format                 : "yaml" # "yml"
-  moderation             : false # true
-  path                   :  "_data/results/{@timestamp}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ["name", "message"] # ['name', 'email', 'message']
-  endpoint               : https://ocxcsummer-staticman.herokuapp.com/v3/entry/github/
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  provider               : staticman_v2 # staticman_v2 # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  # disqus:
+  #   shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  # discourse:
+  #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  # facebook:
+  #   # https://developers.facebook.com/docs/plugins/comments
+  #   appid                :
+  #   num_posts            : # 5 (default)
+  #   colorscheme          : # "light" (default), "dark"
+  staticman:
+    allowedFields          : ["name", "email", "message"] # ['name', 'email', 'url', 'message']
+    branch                 : "master" # "master"
+    commitMessage          : "Add Staticman data" # "New comment."
+    filename               : "entry{@timestamp}" # comment-{@timestamp}
+    format                 : "yaml" # "yml"
+    moderation             : false # true
+    path                   :  "_data/results/{@timestamp}" # "/_data/comments/{options.slug}" (default)
+    requiredFields         : ["name", "message"] # ['name', 'email', 'message']
+    endpoint               : https://ocxcsummer-staticman.herokuapp.com/v2/entry/github/
+    # transforms:
+    #   email                : # "md5"
+    # generatedFields:
+    #   date:
+    #     type               : # "date"
+    #     options:
+    #       format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  
+staticman_url: https://ocxcsummer-staticman.herokuapp.com/v2/entry/ocxcsummer/ocxcsummer.github.io/master/comments
+
+
+
 reCaptcha:
   siteKey                :
   secret                 :
