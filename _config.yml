@@ -39,7 +39,7 @@ comments:
     moderation             : false # true
     path                   :  "_data/results/{@timestamp}" # "/_data/comments/{options.slug}" (default)
     requiredFields         : ["name", "message"] # ['name', 'email', 'message']
-    endpoint               : https://ocxcsummer-staticman.herokuapp.com/v2/entry/github/
+    endpoint               : https://ocxcsummer-staticman.herokuapp.com/v3/entry/github/
     # transforms:
     #   email                : # "md5"
     # generatedFields:
@@ -48,7 +48,7 @@ comments:
     #     options:
     #       format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   
-staticman_url: https://ocxcsummer-staticman.herokuapp.com/v2/entry/ocxcsummer/ocxcsummer.github.io/master/comments
+staticman_url: https://ocxcsummer-staticman.herokuapp.com/v3/entry/ocxcsummer/ocxcsummer.github.io/master/comments
 
 
 
