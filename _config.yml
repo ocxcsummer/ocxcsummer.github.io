@@ -34,12 +34,12 @@ comments:
     allowedFields          : ["name", "email", "message"] # ['name', 'email', 'url', 'message']
     branch                 : "master" # "master"
     commitMessage          : "Add Staticman data" # "New comment."
-    filename               : "entry{@timestamp}" # comment-{@timestamp}
+    filename               : "comment-{@timestamp}" #"entry{@timestamp}"
     format                 : "yaml" # "yml"
     moderation             : false # true
-    path                   :  "_data/results/{@timestamp}" # "/_data/comments/{options.slug}" (default)
+    path                   :  "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
     requiredFields         : ["name", "message"] # ['name', 'email', 'message']
-    endpoint               : https://ocxcsummer-staticman.herokuapp.com/v3/entry/github/
+    endpoint               : "https://ocxcsummer-staticman.herokuapp.com/v3/entry/github/""
     # transforms:
     #   email                : # "md5"
     # generatedFields:
