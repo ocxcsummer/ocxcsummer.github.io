@@ -262,9 +262,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true # true
-      share: false
+      share: true
       related: true
       use_math: false
 
