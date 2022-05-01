@@ -11,7 +11,7 @@
   animation-delay: 0.15s;
   z-index: 20;
   // background: #ff8569; // adds a colored background to the masthead
-  background: '/assets/images/blogbg.jpg';
+  background: url("/assets/images/blogbgsml.jpg");
 
   &__inner-wrap {
     @include clearfix;
