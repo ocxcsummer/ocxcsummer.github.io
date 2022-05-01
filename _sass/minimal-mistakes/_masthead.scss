@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background: #ff8569;
+  background: #ff8569; // adds a colored background to the masthead
 
   &__inner-wrap {
     @include clearfix;
@@ -55,6 +55,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background: #fce69f; // adds an accent color to the masthead
 
   .site-nav {
     margin-left: 0;
