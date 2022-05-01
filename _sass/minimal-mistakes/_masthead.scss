@@ -49,13 +49,17 @@
   z-index: 20;
 }
 
+.greedy-nav {
+  background: #fce69f; // adds an accent color to the masthead
+}
+
 .masthead__menu {
   float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
-  background: #fce69f; // adds an accent color to the masthead
+  
 
   .site-nav {
     margin-left: 0;
