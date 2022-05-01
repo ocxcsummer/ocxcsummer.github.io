@@ -6,6 +6,8 @@ main:
     url: /posts/
   - title: "Submissions"
     url: /submissions/
+  - title: "Tags"
+    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
