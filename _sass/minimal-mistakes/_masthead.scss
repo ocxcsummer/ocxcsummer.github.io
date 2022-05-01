@@ -10,7 +10,8 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background: #ff8569; // adds a colored background to the masthead
+  // background: #ff8569; // adds a colored background to the masthead
+  background: '/assets/images/blogbg.jpg';
 
   &__inner-wrap {
     @include clearfix;
