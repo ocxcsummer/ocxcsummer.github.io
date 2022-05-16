@@ -103,7 +103,7 @@ author:
   bio              : "The runners of Oberlin College Cross Country."
   location         : "Oberlin, OH"
   email            : "ocxcsummer@gmail.com"
-  uri              : "ocxcsummer.github.io"
+  uri              : # "ocxcsummer.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -111,7 +111,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ocxcsummer" # github username, "my_github_username"
+  github           : # "ocxcsummer" # github username, "my_github_username"
   gitlab           :
   google_plus      :
   keybase          :
