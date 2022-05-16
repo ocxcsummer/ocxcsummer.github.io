@@ -20,5 +20,5 @@ Your post should include:
 If it is your first time posting please include the following:
 
 - Author pic (can be anything square shaped)
-- Short bio (eg. Oberlin Alum '22, Psychology Major from Kansas '24) 
+- Short bio (eg. Oberlin Alum '21, Psychology Major from Kansas '24) 
 - Author social media links/email (optional)
