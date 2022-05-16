@@ -98,9 +98,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oberlin College Cross Country"
+  name             : "Oberlin Cross Country"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A one of a kind cross country team at Oberlin College."
+  bio              : "The runners of Oberlin College Cross Country."
   location         : "Oberlin, OH"
   email            : "ocxcsummer@gmail.com"
   uri              : "ocxcsummer.github.io"
