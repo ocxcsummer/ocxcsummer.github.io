@@ -103,7 +103,7 @@ author:
   bio              : "A one of a kind cross country team at Oberlin College."
   location         : "Oberlin, OH"
   email            : "ocxcsummer@gmail.com"
-  uri              :
+  uri              : "ocxcsummer.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
