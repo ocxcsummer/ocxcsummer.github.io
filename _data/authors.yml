@@ -17,6 +17,8 @@ Walter Moak:
   name        : "Walter Moak"
   bio         : "Charlottesville, Virginia native; OC class of 2025."
   avatar      : "/assets/images/walter.png"
+  location    : "Charlottesville, VA"
+  email       : "wmoak@oberlin.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

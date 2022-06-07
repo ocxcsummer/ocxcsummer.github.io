@@ -3,9 +3,6 @@ title:  "Blog Debut – First Long Run!"
 date:   2022-06-06
 author: Walter Moak
 ---
-
-Walter Moak
-
 ### Training Update: June 5th, 2022
 
 Before I start, a big thank you to Niels for setting up the blog and fixing the time-space continuum issues in the comments!
