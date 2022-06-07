@@ -12,3 +12,15 @@ Niels Vanderloo:
   #   - label: "Instagram"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://www.instagram.com/niels.loo/"
+
+Walter Moak:
+  name        : "Walter Moak"
+  bio         : "Charlottesville, Virginia native; OC class of 2025."
+  avatar      : "/assets/images/walter.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wmoak@oberlin.edu"
+    - label: "Phone"
+      icon: "fab fa-fw fa-phone-square"
+      url: "(434)-906-6226"
