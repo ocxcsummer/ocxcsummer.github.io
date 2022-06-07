@@ -31,6 +31,9 @@
       {% endif %}
     </h2>
     <p class="page__meta">
+      {% if post.author %}
+      <i aria-hidden="true"></i> {{ post.author }} &nbsp;&nbsp;&nbsp;
+      {% endif %}
       {% if post.date %}
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> &nbsp;&nbsp;&nbsp;
       {% endif %}
