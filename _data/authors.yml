@@ -19,4 +19,7 @@ Walter Moak:
   avatar      : "/assets/images/walter.png"
   location    : "Charlottesville, VA"
   email       : "wmoak@oberlin.edu"
-  uri         : "(434)-906-6226"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
