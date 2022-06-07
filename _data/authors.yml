@@ -15,7 +15,8 @@ Niels Vanderloo:
 
 Walter Moak:
   name        : "Walter Moak"
-  bio         : "Charlottesville, Virginia native; OC class of 2025. \n Phone: (434)-906-6226"
+  bio         : "Charlottesville, Virginia native; OC class of 2025."
   avatar      : "/assets/images/walter.png"
   location    : "Charlottesville, VA"
+  email       : "wmoak@oberlin.edu"
   url         : "(434)-906-6226"
