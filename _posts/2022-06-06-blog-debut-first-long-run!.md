@@ -1,5 +1,5 @@
 ---
-title:  "Blog Debut – First Long Run! "
+title:  "Blog Debut – First Long Run!"
 date:   2022-06-06
 author: Walter Moak
 ---
