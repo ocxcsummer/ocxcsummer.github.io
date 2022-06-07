@@ -17,7 +17,7 @@ On my run I encountered the first real hills I’ve seen in a long time, a relie
 
 After my run, I tried my hand, as well as my abs, at our new circuit GS-K.  Highlights included “Eccentric Split Jumps” and Frog Hops. 
 
-Unless someone else has submitted a post that hasn’t been processed yet, this might be the first post on the blog. I’m looking forward to seeing what everyone else is up to!
+Unless someone else has submitted a post that hasn’t been processed yet, this might be the first post on the blog (update: it is!). I’m looking forward to seeing what everyone else is up to!
 
 – Walter
 
