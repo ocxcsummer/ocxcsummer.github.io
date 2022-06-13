@@ -20,3 +20,8 @@ Walter Moak:
   location    : "Charlottesville, VA"
   email       : "wmoak@oberlin.edu"
   phone       : "(434)-906-6226" 
+
+Sam Russ:
+  name        : "Sam Russ"
+  bio         : "fourth year dual degree student, cross country captain"
+  avatar      : "/assets/images/samruss_circ.png"
