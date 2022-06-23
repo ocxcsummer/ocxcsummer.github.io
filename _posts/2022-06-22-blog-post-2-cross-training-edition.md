@@ -4,8 +4,6 @@ date:   2022-06-22
 author: Walter Moak
 ---
 
-Blog Post 2: Cross-Training Edition
-
 Hi team! I’ve enjoyed reading all the blog entries from the past couple weeks, and was inspired by [Jonah’s gripping prose](https://ocxcsummer.github.io/106-degree-diaries-1/) to make this post into a bit of a creative writing project.
 
 ## Training Update: June 20th, 2022
