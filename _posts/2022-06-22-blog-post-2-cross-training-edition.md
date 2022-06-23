@@ -26,11 +26,11 @@ As my momentum carried me ineluctably towards them, one of the triumvirate stepp
 
 “Hey man,” he intoned patronizingly, “You can’t bike on the course.” I attempted to plead ignorance, but pointing behind me, he pronounced, “they’re coming to tell you.” I looked back and saw a golf cart quickly approaching. With my attention distracted, the two other men executed a flanking maneuver to cut off the path ahead.
 
-Hastily, I tried to calculate whether I could evade the authorities: Is a bike faster than a golf cart? What about on rough terrain? How fast can I accelerate? 
+Hastily, I tried to calculate whether I could evade the authorities: *Is a bike faster than a golf cart? What about on rough terrain? How fast can I accelerate?*
 
-But before I could reach a conclusion, the fairway fuzz was upon me. A young man in a polo shirt and khakis stepped out of the cart, his cap emblazoned with the golf course’s logo. He removed his sunglasses, and suddenly I recognized him – he’d been on my rec basketball team a few years back! Fleetingly, I hoped he might bend the rules for me, but he repeated the ponderous golfers’ warning and evicted me from the green. Et tu, Gavin?
+But before I could reach a conclusion, the fairway fuzz was upon me. A young man in a polo shirt and khakis stepped out of the cart, his cap emblazoned with the golf course’s logo. He removed his sunglasses, and suddenly I recognized him – he’d been on my rec basketball team a few years back! Fleetingly, I hoped he might bend the rules for me, but he repeated the ponderous golfers’ warning and evicted me from the green. *Et tu, Gavin?*
 
-As my turncoat friend thanked “Dave” for the report, I biked sadly away, forced to finish my ride on the roads. Eventually, I pulled into my driveway, my heart beating quickly, though heavy with disappointment. On my ride I had broken a heavy sweat, and perhaps the Virginia Misdemeanor Trespassing Statute (§ 18.2-119) as well. But as I stretched on my porch afterwards, I knew that I had completed my cross training; I had carpe-ed the diem; I had seized the day.
+As my turncoat friend thanked “Dave” for the report, I biked sadly away, forced to finish my ride on the roads. Eventually, I pulled into my driveway, my heart beating quickly, though heavy with disappointment. On my ride I had broken a heavy sweat, and perhaps the Virginia Misdemeanor Trespassing Statute (§ 18.2-119) as well. But as I stretched on my porch afterwards, I knew that I had completed my cross training; I had *carpe-ed* the *diem*; I had seized the day.
 
 -Walter
 
