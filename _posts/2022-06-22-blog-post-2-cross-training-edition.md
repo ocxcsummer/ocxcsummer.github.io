@@ -11,7 +11,6 @@ Hi team! I’ve enjoyed reading all the blog entries from the past couple weeks,
 This morning I awoke to unusually cool temperatures and a clear sky – a perfect day to get in some cross-training on my bike. I didn’t have a bike on campus last year, so I’ve been cycling around a lot lately. Today, though, I wanted to escape the monotony of looping my neighborhood again and again, and decided to bike onto the seductively smooth paths of the nearby Birdwood Golf Course. 
 
 ![](https://lh3.googleusercontent.com/eTkFEVyC2BNbd_w_QN-qRXOcCF9CkRfs6M2b_gGqUOAprGOI3D6JZzGCAVkw3dBqrDhsWNnWHurHWsTFB2DwtAhC0WG7SUWoe92fcBYaZiUxuhoLSHlkqaTaP8ZtdX0Ky24_Wn6qBaOt-AD2Ig)
-
 Birdwood Golf Course, c. 2020. Note the seductively smooth path. 
 
 Cycling there, I suspected, was likely prohibited, but I hoped that by sticking to paths and rounding curves at reasonable speeds, I would avoid any issues.
