@@ -42,4 +42,4 @@ Since I don't do much running right now I've been doing a bunch of cross trainin
 
 Anyways, that's it for me. If any of you have advice on how to get swole please comment below. Also give me a call if you want to catch up about your summer or talk about how backwards and broken everything is right now.  
 
--Niels ❤
+-Niels 💜
