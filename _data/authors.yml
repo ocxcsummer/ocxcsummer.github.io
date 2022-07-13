@@ -4,7 +4,7 @@ Niels Vanderloo:
   name        : "Niels Vanderloo"
   bio         : "Physics and Math major from NYC (OC '23)"
   avatar      : "/assets/images/niels.png"
-  instagram : "https://www.instagram.com/niels.loo/"
+  instagram : "niels.loo"
   location    : "Rochester, NY"
   # links:
   #   - label: "Email"
@@ -40,3 +40,9 @@ Camila Ciembroniewicz:
 From the great state of Maine"
   avatar: '/assets/images/camila.jpg'
   location: "Maine"
+
+Jerry Achtermann:
+  name: "Jerry Achtermannnn"
+  Bio : "OC '24.5, Composition & Cinema Studies Major, Current Maine Resident"
+  instagram : "jerry.with.a.j"
+  spotify : "lukestarkiller42"
