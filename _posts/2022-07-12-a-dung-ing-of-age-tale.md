@@ -25,7 +25,7 @@ A cheer erupts from the putting green.
 
 It has been 4 hours since that moment, and I have spent every _second_ of those four hours thinking about what. that. cheer. was. for.  There’s no way they could see me…right?  I used the see-fars!  The cheer was probably for someone getting a birdie or an eagle or whatever.  But the timing was too perfect, and it haunts me.  I can’t stop imagining them spotting a distant, mid-poop Jerry and giving their unsolicited support.
 
-<img title="" src="https://lh5.googleusercontent.com/s3OrWI2ddSpsoPhOvamqw1VX_6Dc6t2WkQh6vClWKBjrU6EJGp-9tfVx-HzCkUNKhCqNeIkvJpYZKyfOJgD81I4tXKzmFrVAW-rXlHuNnLoTGeI4mIatgL7RQ_H2arfg-iKULuavXLNsFBMDD6E" alt="" width="371" data-align="center">
+<img title="" src="https://lh5.googleusercontent.com/s3OrWI2ddSpsoPhOvamqw1VX_6Dc6t2WkQh6vClWKBjrU6EJGp-9tfVx-HzCkUNKhCqNeIkvJpYZKyfOJgD81I4tXKzmFrVAW-rXlHuNnLoTGeI4mIatgL7RQ_H2arfg-iKULuavXLNsFBMDD6E" alt="" width="371" align="center">
 
 > Here’s the site of poop #1.  Was too busy vibing to San Salvador to take any other pictures
 
